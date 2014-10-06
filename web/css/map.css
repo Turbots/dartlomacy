@@ -1,0 +1,25 @@
+body {
+    margin: 0px;
+}
+
+.clearfix {
+    height: calc(100vh - 10px);
+}
+
+.left {
+    display: block;
+    float: left;
+    box-sizing: border-box;
+    width: calc(50% - 5px);
+    margin: 10px 5px 10px 0;
+    height: calc(100% - 10px);
+}
+
+.right {
+    display: block;
+    float: right;
+    box-sizing: border-box;
+    width: calc(50% - 5px);
+    margin: 10px 0 10px 5px;
+    height: calc(100% - 10px);
+}

@@ -1,0 +1,715 @@
+---
+build.dart --machine --full
+
+build.dart finished [887 ms]
+
+---
+build.dart --machine --removed=web\clickcounter.dart --removed=web\clickcounter.html --removed=web\dartlomacy.c...
+
+build.dart finished [1938 ms]
+
+---
+build.dart --machine --changed=pubspec.yaml
+
+build.dart finished [931 ms]
+
+---
+build.dart --machine --changed=pubspec.yaml
+
+build.dart finished [929 ms]
+
+---
+build.dart --machine --changed=pubspec.yaml
+
+build.dart finished [911 ms]
+
+---
+build.dart --machine --changed=web\index.html
+
+build.dart finished [1002 ms]
+
+---
+build.dart --machine --changed=web\index.dart
+
+build.dart finished [978 ms]
+
+---
+build.dart --machine --changed=web\index.dart
+
+build.dart finished [988 ms]
+
+---
+build.dart --machine --changed=web\index.dart
+
+build.dart finished [1041 ms]
+
+---
+build.dart --machine --changed=web\index.dart
+
+build.dart finished [1040 ms]
+
+---
+build.dart --machine --changed=web\index.html
+
+build.dart finished [1003 ms]
+
+---
+build.dart --machine --changed=web\index.html
+
+build.dart finished [992 ms]
+
+---
+build.dart --machine --changed=pubspec.yaml
+
+build.dart finished [975 ms]
+
+---
+build.dart --machine --changed=web\index.html
+
+build.dart finished [1022 ms]
+
+---
+build.dart --machine --changed=web\index.html
+
+build.dart finished [1018 ms]
+
+---
+build.dart --machine --changed=web\index.html
+
+build.dart finished [1051 ms]
+
+---
+build.dart --machine --changed=web\index.html
+
+build.dart finished [1006 ms]
+
+---
+build.dart --machine --changed=web\index.html
+
+build.dart finished [989 ms]
+
+---
+build.dart --machine --changed=web\index.html
+
+build.dart finished [1017 ms]
+
+---
+build.dart --machine --changed=pubspec.lock
+
+build.dart finished [983 ms]
+
+---
+build.dart --machine --changed=web\css\map.css
+
+build.dart finished [980 ms]
+
+---
+build.dart --machine --changed=web\css\map.css
+
+build.dart finished [1026 ms]
+
+---
+build.dart --machine --changed=web\index.html
+
+build.dart finished [1034 ms]
+
+---
+build.dart --machine --changed=web\index.html
+
+build.dart finished [990 ms]
+
+---
+build.dart --machine --changed=web\css\map.css
+
+build.dart finished [1028 ms]
+
+---
+build.dart --machine --changed=web\css\map.css
+
+build.dart finished [1011 ms]
+
+---
+build.dart --machine --changed=web\css\map.css
+
+build.dart finished [1037 ms]
+
+---
+build.dart --machine --changed=web\css\map.css
+
+build.dart finished [1059 ms]
+
+---
+build.dart --machine --changed=web\css\map.css
+
+build.dart finished [985 ms]
+
+---
+build.dart --machine --changed=web\css\map.css
+
+build.dart finished [1018 ms]
+
+---
+build.dart --machine --changed=web\css\map.css
+
+build.dart finished [1032 ms]
+
+---
+build.dart --machine --changed=web\css\map.css
+
+build.dart finished [1025 ms]
+
+---
+build.dart --machine --changed=web\css\map.css
+
+build.dart finished [1042 ms]
+
+---
+build.dart --machine --changed=web\css\map.css
+
+build.dart finished [1043 ms]
+
+---
+build.dart --machine --changed=web\css\map.css
+
+build.dart finished [1014 ms]
+
+---
+build.dart --machine --changed=web\index.dart
+
+build.dart finished [1042 ms]
+
+---
+build.dart --machine --changed=web\index.dart
+
+build.dart finished [1042 ms]
+
+---
+build.dart --machine --changed=web\index.dart
+
+build.dart finished [1072 ms]
+
+---
+build.dart --machine --changed=web\index.html
+
+build.dart finished [1052 ms]
+
+---
+build.dart --machine --changed=web\index.html
+
+build.dart finished [1059 ms]
+
+---
+build.dart --machine --changed=web\index.dart
+
+build.dart finished [1054 ms]
+
+---
+build.dart --machine --changed=web\index.html
+
+build.dart finished [1005 ms]
+
+---
+build.dart --machine --changed=web\index.html
+
+build.dart finished [984 ms]
+
+---
+build.dart --machine --changed=web\css\map.css
+
+build.dart finished [1036 ms]
+
+---
+build.dart --machine --changed=web\index.dart
+
+build.dart finished [1039 ms]
+
+---
+build.dart --machine --changed=web\index.dart
+
+build.dart finished [1047 ms]
+
+---
+build.dart --machine --changed=web\index.dart
+
+build.dart finished [1024 ms]
+
+---
+build.dart --machine --changed=web\index.dart
+
+build.dart finished [1083 ms]
+
+---
+build.dart --machine --changed=web\index.dart
+
+build.dart finished [1027 ms]
+
+---
+build.dart --machine --changed=web\index.dart
+
+build.dart finished [1007 ms]
+
+---
+build.dart --machine --changed=web\index.dart
+
+build.dart finished [1008 ms]
+
+---
+build.dart --machine --changed=web\index.dart
+
+build.dart finished [1019 ms]
+
+---
+build.dart --machine --changed=web\index.dart
+
+build.dart finished [1034 ms]
+
+---
+build.dart --machine --changed=web\index.dart
+
+build.dart finished [1046 ms]
+
+---
+build.dart --machine --changed=web\index.dart
+
+build.dart finished [1027 ms]
+
+---
+build.dart --machine --changed=web\polymer-map.dart
+
+build.dart finished [1000 ms]
+
+---
+build.dart --machine --changed=web\polymer-map.html
+
+build.dart finished [937 ms]
+
+---
+build.dart --machine --changed=web\polymer-map.html
+
+build.dart finished [984 ms]
+
+---
+build.dart --machine --changed=web\polymer-map.html
+
+build.dart finished [1016 ms]
+
+---
+build.dart --machine --changed=web\polymer-map.dart
+
+build.dart finished [1032 ms]
+
+---
+build.dart --machine --changed=web\polymer-map.html
+[{"method":"warning","params":{"file":"web/polymer-map.html","message":"definition for Polymer element with tag name \"polymer-map\" not found.","line":12,"charStart":223,"charEnd":236}}]
+build.dart finished [985 ms]
+
+---
+build.dart --machine --changed=web\polymer-map.html
+[{"method":"warning","params":{"file":"web/polymer-map.html","message":"definition for Polymer element with tag name \"polymer-map\" not found.","line":12,"charStart":223,"charEnd":236}}]
+build.dart finished [953 ms]
+
+---
+build.dart --machine --changed=web\polymer-map.dart
+[{"method":"warning","params":{"file":"web/polymer-map.html","message":"definition for Polymer element with tag name \"polymer-map\" not found.","line":12,"charStart":223,"charEnd":236}}]
+build.dart finished [1047 ms]
+
+---
+build.dart --machine --changed=pubspec.yaml
+[{"method":"warning","params":{"file":"web/polymer-map.html","message":"definition for Polymer element with tag name \"polymer-map\" not found.","line":12,"charStart":223,"charEnd":236}}]
+build.dart finished [1001 ms]
+
+---
+build.dart --machine --changed=web\polymer-map.dart
+[{"method":"warning","params":{"file":"web/polymer-map.html","message":"definition for Polymer element with tag name \"polymer-map\" not found.","line":12,"charStart":223,"charEnd":236}}]
+build.dart finished [1060 ms]
+
+---
+build.dart --machine --changed=web\polymer-map.dart
+[{"method":"warning","params":{"file":"web/polymer-map.html","message":"definition for Polymer element with tag name \"polymer-map\" not found.","line":12,"charStart":223,"charEnd":236}}]
+build.dart finished [1033 ms]
+
+---
+build.dart --machine --changed=web\polymer-map.dart
+[{"method":"warning","params":{"file":"web/polymer-map.html","message":"definition for Polymer element with tag name \"polymer-map\" not found.","line":12,"charStart":223,"charEnd":236}}]
+build.dart finished [1043 ms]
+
+---
+build.dart --machine --changed=web\polymer-map.dart
+[{"method":"warning","params":{"file":"web/polymer-map.html","message":"definition for Polymer element with tag name \"polymer-map\" not found.","line":12,"charStart":223,"charEnd":236}}]
+build.dart finished [1045 ms]
+
+---
+build.dart --machine --changed=web\polymer-map.dart
+[{"method":"warning","params":{"file":"web/polymer-map.html","message":"definition for Polymer element with tag name \"polymer-map\" not found.","line":12,"charStart":223,"charEnd":236}}]
+build.dart finished [1045 ms]
+
+---
+build.dart --machine --changed=web\polymer-map.html
+[{"method":"warning","params":{"file":"web/polymer-map.html","message":"definition for Polymer element with tag name \"polymer-map\" not found.","line":12,"charStart":223,"charEnd":236}}]
+build.dart finished [982 ms]
+
+---
+build.dart --machine --changed=web\polymer-map.html
+[{"method":"warning","params":{"file":"web/polymer-map.html","message":"definition for Polymer element with tag name \"polymer-map\" not found.","line":13,"charStart":288,"charEnd":301}}]
+build.dart finished [1136 ms]
+
+---
+build.dart --machine --changed=web\polymer-map.html
+[{"method":"warning","params":{"file":"web/polymer-map.html","message":"definition for Polymer element with tag name \"polymer-map\" not found.","line":13,"charStart":288,"charEnd":301}}]
+build.dart finished [1019 ms]
+
+---
+build.dart --machine --changed=web\index.html --changed=web\polymer-map.html
+[{"method":"warning","params":{"file":"web/polymer-map.html","message":"definition for Polymer element with tag name \"polymer-map\" not found.","line":4,"charStart":24,"charEnd":37}}]
+build.dart finished [969 ms]
+
+---
+build.dart --machine --changed=web\polymer-map.html
+
+build.dart finished [953 ms]
+
+---
+build.dart --machine --changed=web\polymer-map.html
+
+build.dart finished [1328 ms]
+
+---
+build.dart --machine --changed=web\polymer-map.dart
+
+build.dart finished [1328 ms]
+
+---
+build.dart --machine --changed=web\polymer-map.dart
+
+build.dart finished [985 ms]
+
+---
+build.dart --machine --changed=web\polymer-map.dart
+
+build.dart finished [970 ms]
+
+---
+build.dart --machine --changed=web\polymer-map.dart
+
+build.dart finished [1044 ms]
+
+---
+build.dart --machine --changed=web\polymer-map.dart
+
+build.dart finished [1070 ms]
+
+---
+build.dart --machine --changed=web\polymer-map.dart
+
+build.dart finished [1062 ms]
+
+---
+build.dart --machine --changed=web\polymer-map.dart
+
+build.dart finished [953 ms]
+
+---
+build.dart --machine --changed=web\index.dart
+
+build.dart finished [969 ms]
+
+---
+build.dart --machine --changed=web\index.dart
+
+build.dart finished [985 ms]
+
+---
+build.dart --machine --changed=web\index.dart
+
+build.dart finished [1065 ms]
+
+---
+build.dart --machine --changed=web\polymer-map.dart
+
+build.dart finished [969 ms]
+
+---
+build.dart --machine --changed=web\index.html
+
+build.dart finished [1001 ms]
+
+---
+build.dart --machine --changed=web\css\map.css
+
+build.dart finished [968 ms]
+
+---
+build.dart --machine --changed=web\css\map.css
+
+build.dart finished [1000 ms]
+
+---
+build.dart --machine --changed=web\index.html
+
+build.dart finished [969 ms]
+
+---
+build.dart --machine --changed=web\index.dart
+
+build.dart finished [984 ms]
+
+---
+build.dart --machine --changed=web\index.dart
+
+build.dart finished [1063 ms]
+
+---
+build.dart --machine --changed=web\index.dart
+
+build.dart finished [1070 ms]
+
+---
+build.dart --machine --changed=web\index.dart
+
+build.dart finished [1060 ms]
+
+---
+build.dart --machine --changed=web\index.dart
+
+build.dart finished [1038 ms]
+
+---
+build.dart --machine --changed=web\index.dart
+
+build.dart finished [1057 ms]
+
+---
+build.dart --machine --changed=web\index.html
+[{"method":"warning","params":{"file":"web/index.html","message":"absolute paths not allowed: \"//www.polymer-project.org/components/polymer/polymer.html\"","line":5,"charStart":31,"charEnd":115}}]
+build.dart finished [1065 ms]
+
+---
+build.dart --machine --changed=web\index.html
+
+build.dart finished [1031 ms]
+
+---
+build.dart --machine --changed=web\index.html
+
+build.dart finished [1100 ms]
+
+---
+build.dart --machine --changed=web\index.html
+
+build.dart finished [1072 ms]
+
+---
+build.dart --machine --changed=web\index.html
+
+build.dart finished [1013 ms]
+
+---
+build.dart --machine --changed=web\index.html
+
+build.dart finished [1045 ms]
+
+---
+build.dart --machine --changed=web\index.html
+
+build.dart finished [1075 ms]
+
+---
+build.dart --machine --changed=web\index.html
+
+build.dart finished [1074 ms]
+
+---
+build.dart --machine --changed=web\index.html
+
+build.dart finished [1069 ms]
+
+---
+build.dart --machine --changed=web\polymer-map.html
+
+build.dart finished [1072 ms]
+
+---
+build.dart --machine --changed=pubspec.yaml
+
+build.dart finished [1014 ms]
+
+---
+build.dart --machine --changed=web\polymer-map.dart
+
+build.dart finished [1037 ms]
+
+---
+build.dart --machine --changed=web\index.dart
+
+build.dart finished [1017 ms]
+
+---
+build.dart --machine --changed=web\polymer-map.dart
+
+build.dart finished [1033 ms]
+
+---
+build.dart --machine --changed=web\polymer-map.dart
+
+build.dart finished [1020 ms]
+
+---
+build.dart --machine --changed=web\polymer-map.dart
+
+build.dart finished [1014 ms]
+
+---
+build.dart --machine --changed=web\index.dart
+
+build.dart finished [1074 ms]
+
+---
+build.dart --machine --changed=web\index.dart
+
+build.dart finished [1043 ms]
+
+---
+build.dart --machine --changed=web\css\map.css
+
+build.dart finished [1033 ms]
+
+---
+build.dart --machine --changed=web\polymer-map.html
+
+build.dart finished [1026 ms]
+
+---
+build.dart --machine --changed=web\polymer-map.html
+
+build.dart finished [1015 ms]
+
+---
+build.dart --machine --changed=web\polymer-map.html
+
+build.dart finished [1089 ms]
+
+---
+build.dart --machine --changed=web\polymer-map.html
+
+build.dart finished [1196 ms]
+
+---
+build.dart --machine --changed=web\polymer-map.html
+
+build.dart finished [1075 ms]
+
+---
+build.dart --machine --changed=web\index.html
+
+build.dart finished [1056 ms]
+
+---
+build.dart --machine --changed=web\css\map.css
+
+build.dart finished [1055 ms]
+
+---
+build.dart --machine --changed=web\css\map.css
+
+build.dart finished [1003 ms]
+
+---
+build.dart --machine --changed=web\css\map.css
+
+build.dart finished [1031 ms]
+
+---
+build.dart --machine --changed=web\css\map.css
+
+build.dart finished [1024 ms]
+
+---
+build.dart --machine --changed=web\css\map.css
+
+build.dart finished [1020 ms]
+
+---
+build.dart --machine --changed=web\css\map.css
+
+build.dart finished [1081 ms]
+
+---
+build.dart --machine --changed=web\index.html
+
+build.dart finished [1032 ms]
+
+---
+build.dart --machine --changed=web\css\map.css
+
+build.dart finished [1025 ms]
+
+---
+build.dart --machine --changed=web\polymer-map.html
+
+build.dart finished [1032 ms]
+
+---
+build.dart --machine --changed=web\polymer-map.html
+
+build.dart finished [1085 ms]
+
+---
+build.dart --machine --changed=web\css\map.css
+
+build.dart finished [1019 ms]
+
+---
+build.dart --machine --changed=web\css\map.css
+
+build.dart finished [1041 ms]
+
+---
+build.dart --machine --changed=web\css\map.css
+
+build.dart finished [1023 ms]
+
+---
+build.dart --machine --changed=web\css\map.css
+
+build.dart finished [1036 ms]
+
+---
+build.dart --machine --changed=web\css\map.css
+
+build.dart finished [1017 ms]
+
+---
+build.dart --machine --changed=web\polymer-map.dart
+
+build.dart finished [969 ms]
+
+---
+build.dart --machine --changed=web\polymer-map.html
+
+build.dart finished [1043 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.html --removed=web\index.html
+
+build.dart finished [1012 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.dart --removed=web\index.dart
+
+build.dart finished [1011 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.html
+
+build.dart finished [1072 ms]
+
+---
+build.dart --machine --changed=pubspec.yaml
+
+build.dart finished [1027 ms]
+
+---
+build.dart --machine --full
+
+build.dart finished [1425 ms]
+

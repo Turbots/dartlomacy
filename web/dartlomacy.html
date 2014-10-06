@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<script src="packages/web_components/dart_support.js"></script>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Google Maps in Dart</title>
+
+<link rel="stylesheet" href="css/map.css">
+
+<link rel="import" href="packages/polymer/polymer.html">
+<link rel="import" href="polymer-map.html">
+</head>
+
+<body>
+    <div class="clearfix">
+        <polymer-map class="left" id="map1"></polymer-map>
+        <div class="right" id="map2"></div>
+    </div>
+
+    <script src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
+    <script type="application/dart" src="dartlomacy.dart"></script>
+    <script src="packages/browser/dart.js"></script>
+</body>
+</html>

@@ -1,0 +1,13 @@
+name: dartlomacy
+version: 0.0.1
+author: Dieter Hubau <dhubau@gmail.com>
+description: 'Dartlomacy: a Dart webapp of the popular strategy game Diplomacy'
+homepage: http://www.dartlomacy.com
+documentation: http://www.dartlomacy.com/docs
+dependencies:
+  browser: any
+  google_maps: '>=2.0.0 <3.0.0'
+  polymer: '>=0.12.0 <0.13.0'
+transformers:
+- polymer:
+    entry_points: web/dartlomacy.html
