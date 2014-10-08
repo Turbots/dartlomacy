@@ -6,21 +6,23 @@
 
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Google Maps in Dart</title>
-
-<link rel="stylesheet" href="css/map.css">
-
+<title>Dartlomacy</title>
 <link rel="import" href="packages/polymer/polymer.html">
-<link rel="import" href="polymer-map.html">
+<link rel="import" href="packages/paper_elements/roboto.html">
+
+<link rel="import" href="packages/core_elements/core_header_panel.html">
+
+<link rel="stylesheet" type="text/css" href="css/main.css">
+
 </head>
 
-<body>
-    <div class="clearfix">
-        <polymer-map class="left" id="map1"></polymer-map>
-        <div class="right" id="map2"></div>
-    </div>
+<body fullbleed vertical layout unresolved>
+    <core-header-panel>
+        <div id="content">
 
-    <script src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
+        </div>
+    </core-header-panel>
+
     <script type="application/dart" src="dartlomacy.dart"></script>
     <script src="packages/browser/dart.js"></script>
 </body>

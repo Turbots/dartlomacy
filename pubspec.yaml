@@ -7,7 +7,10 @@ documentation: http://www.dartlomacy.com/docs
 dependencies:
   browser: any
   google_maps: '>=2.0.0 <3.0.0'
+  logging: any
+  paper_elements: any
   polymer: '>=0.12.0 <0.13.0'
+  uuid: any
 transformers:
 - polymer:
     entry_points: web/dartlomacy.html
