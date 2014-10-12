@@ -3,6 +3,7 @@ library dartlomacy.lobby;
 import 'package:logging/logging.dart';
 import 'package:polymer/polymer.dart';
 import 'package:dartlomacy/dartlomacy_library.dart';
+import 'dart:html';
 
 @CustomTag("lobby-element")
 class LobbyElement extends PolymerElement {
@@ -18,6 +19,11 @@ class LobbyElement extends PolymerElement {
         this._lobby = lobby;
     }
 
-    LobbyElement.created() : super.created();
+    LobbyElement.created() : super.created() {
 
+    }
+
+    clickHandler(Event event, var detail, Node node) {
+        _logger.info("Lobby clicked: $event - detail $detail - from node ${node}");
+    }
 }

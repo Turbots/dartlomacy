@@ -1,0 +1,24 @@
+<link rel="import" href="../../../packages/polymer/polymer.html">
+<link rel="import" href="../../../packages/core_elements/core_drawer_panel.html">
+
+<link rel="import" href="lobby_element.html">
+<link rel="import" href="game_element.html">
+
+<polymer-element name="dartlomacy-element">
+<template>
+    <style>
+        [drawer] {
+            background-color: #E8C039;
+        }
+    </style>
+    <core-drawer-panel>
+        <div drawer>
+            <lobby-element id="lobby"></lobby-element>
+        </div>
+        <div main>
+            <game-element id="game"></game-element>
+        </div>
+    </core-drawer-panel>
+</template>
+</polymer-element>
+<script type="application/dart" src="dartlomacy_element.dart"></script>

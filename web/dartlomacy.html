@@ -10,11 +10,10 @@
 <link rel="import" href="packages/polymer/polymer.html">
 <link rel="import" href="packages/paper_elements/roboto.html">
 
+<link rel="import" href="packages/core_elements/core_toolbar.html">
 <link rel="import" href="packages/core_elements/core_header_panel.html">
 
-<link rel="import" href="packages/dartlomacy/src/components/dartlomacy_element.html" />
-<link rel="import" href="packages/dartlomacy/src/components/game_element.html" />
-<link rel="import" href="packages/dartlomacy/src/components/lobby_element.html" />
+<link rel="import" href="packages/dartlomacy/components/dartlomacy_element.html" />
 
 <link rel="stylesheet" type="text/css" href="css/main.css">
 
@@ -22,10 +21,10 @@
 
 <body fullbleed vertical layout unresolved>
     <core-header-panel>
-        <dartlomacy-element>
-            <lobby-element></lobby-element>
-            <game-element></game-element>
-        </dartlomacy-element>
+        <core-toolbar>
+            <div>Dartlomacy v0.0.1</div>
+        </core-toolbar>
+        <dartlomacy-element id="dartlomacy"></dartlomacy-element>
     </core-header-panel>
 
     <script type="application/dart" src="dartlomacy.dart"></script>

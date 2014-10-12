@@ -1107,3 +1107,823 @@ build.dart --machine --changed=lib\src\components\dartlomacy_element.dart
 
 build.dart finished [1385 ms]
 
+---
+build.dart --machine --changed=publish.sh
+
+build.dart finished [1536 ms]
+
+---
+build.dart --machine --changed=lib\src\components\dartlomacy_element.dart
+
+build.dart finished [1511 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.html
+
+build.dart finished [1538 ms]
+
+---
+build.dart --machine --changed=lib\src\components\dartlomacy_element.dart
+
+build.dart finished [1473 ms]
+
+---
+build.dart --machine --changed=lib\src\components\dartlomacy_element.dart
+
+build.dart finished [1560 ms]
+
+---
+build.dart --machine --changed=lib\src\components\dartlomacy_element.dart
+
+build.dart finished [1526 ms]
+
+---
+build.dart --machine --changed=lib\src\dartlomacy_starter.dart
+
+build.dart finished [1419 ms]
+
+---
+build.dart --machine --changed=lib\src\dartlomacy_starter.dart
+
+build.dart finished [1414 ms]
+
+---
+build.dart --machine --changed=lib\src\dartlomacy_starter.dart
+
+build.dart finished [1365 ms]
+
+---
+build.dart --machine --changed=lib\src\dartlomacy_starter.dart
+
+build.dart finished [1397 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.html
+
+build.dart finished [1431 ms]
+
+---
+build.dart --machine --changed=lib\src\dartlomacy_starter.dart
+
+build.dart finished [1431 ms]
+
+---
+build.dart --machine --changed=lib\src\dartlomacy_starter.dart
+
+build.dart finished [1379 ms]
+
+---
+build.dart --machine --changed=lib\src\dartlomacy_starter.dart
+
+build.dart finished [1389 ms]
+
+---
+build.dart --machine --changed=lib\src\dartlomacy_starter.dart
+
+build.dart finished [1418 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.dart
+
+build.dart finished [1383 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.dart
+
+build.dart finished [1395 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.dart
+
+build.dart finished [1354 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.dart
+
+build.dart finished [1407 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.dart
+
+build.dart finished [1421 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.dart
+
+build.dart finished [1368 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.dart
+
+build.dart finished [1397 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.dart
+
+build.dart finished [1423 ms]
+
+---
+build.dart --machine --changed=lib\src\components\dartlomacy_element.dart
+
+build.dart finished [1408 ms]
+
+---
+build.dart --machine --changed=lib\src\components\dartlomacy_element.dart
+
+build.dart finished [1389 ms]
+
+---
+build.dart --machine --changed=lib\src\components\dartlomacy_element.dart
+
+build.dart finished [1418 ms]
+
+---
+build.dart --machine --changed=lib\src\components\dartlomacy_element.dart
+
+build.dart finished [1383 ms]
+
+---
+build.dart --machine --changed=lib\src\components\dartlomacy_element.html --changed=lib\src\components\lobby_el...
+[{"method":"warning","params":{"file":"lib/src/components/dartlomacy_element.html","message":"definition for Polymer element with tag name \"lobby-element\" not found.","line":4,"charStart":128,"charEnd":143}}]
+[{"method":"warning","params":{"file":"lib/src/components/dartlomacy_element.html","message":"definition for Polymer element with tag name \"game-element\" not found.","line":5,"charStart":164,"charEnd":178}}]
+build.dart finished [1411 ms]
+
+---
+build.dart --machine --changed=lib\src\components\dartlomacy_element.html
+
+build.dart finished [1403 ms]
+
+---
+build.dart --machine --changed=lib\src\components\dartlomacy_element.dart
+
+build.dart finished [1401 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.html
+
+build.dart finished [1435 ms]
+
+---
+build.dart --machine --changed=lib\src\components\dartlomacy_element.html
+
+build.dart finished [1447 ms]
+
+---
+build.dart --machine --removed=lib\src\dartlomacy_starter.dart
+
+build.dart finished [1423 ms]
+
+---
+build.dart --machine --changed=lib\dartlomacy_library.dart --changed=lib\src\components\dartlomacy_element.dart
+
+build.dart finished [1425 ms]
+
+---
+build.dart --machine --changed=lib\dartlomacy_library.dart
+
+build.dart finished [1434 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.dart
+
+build.dart finished [1432 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.dart
+
+build.dart finished [1446 ms]
+
+---
+build.dart --machine --changed=lib\src\components\dartlomacy_element.dart
+
+build.dart finished [1424 ms]
+
+---
+build.dart --machine --changed=lib\src\components\dartlomacy_element.dart
+
+build.dart finished [1392 ms]
+
+---
+build.dart --machine --changed=lib\src\components\dartlomacy_element.dart
+
+build.dart finished [1387 ms]
+
+---
+build.dart --machine --changed=lib\components\dartlomacy_element.dart --changed=lib\components\dartlomacy_eleme...
+[{"method":"warning","params":{"file":"lib/components/dartlomacy_element.html","message":"Invalid URL to reach to another package: ../../../../packages/polymer/polymer.html. Path reaching to other packages must first reach up all the way to the packages directory. For example, try changing the URL to: ../../../packages/polymer/polymer.html","line":1,"charStart":0,"charEnd":68}}]
+[{"method":"warning","params":{"file":"lib/components/game_element.html","message":"Invalid URL to reach to another package: ../../../../packages/polymer/polymer.html. Path reaching to other packages must first reach up all the way to the packages directory. For example, try changing the URL to: ../../../packages/polymer/polymer.html","line":1,"charStart":0,"charEnd":68}}]
+[{"method":"warning","params":{"file":"lib/components/game_element.html","message":"Missing definition for <polymer-element>, please add the following HTML import at the top of this file: <link rel=\"import\" href=\"../../../packages/polymer/polymer.html\">.","line":2,"charStart":69,"charEnd":106}}]
+[{"method":"warning","params":{"file":"lib/components/lobby_element.html","message":"Invalid URL to reach to another package: ../../../../packages/polymer/polymer.html. Path reaching to other packages must first reach up all the way to the packages directory. For example, try changing the URL to: ../../../packages/polymer/polymer.html","line":1,"charStart":0,"charEnd":68}}]
+[{"method":"warning","params":{"file":"lib/components/lobby_element.html","message":"Missing definition for <polymer-element>, please add the following HTML import at the top of this file: <link rel=\"import\" href=\"../../../packages/polymer/polymer.html\">.","line":2,"charStart":69,"charEnd":107}}]
+[{"method":"warning","params":{"file":"web/dartlomacy.html","message":"couldn't find imported asset \"lib/src/components/dartlomacy_element.html\" in package \"dartlomacy\".","line":15,"charStart":411,"charEnd":498}}]
+[{"method":"warning","params":{"file":"web/dartlomacy.html","message":"couldn't find imported asset \"lib/src/components/game_element.html\" in package \"dartlomacy\".","line":16,"charStart":499,"charEnd":580}}]
+[{"method":"warning","params":{"file":"web/dartlomacy.html","message":"couldn't find imported asset \"lib/src/components/lobby_element.html\" in package \"dartlomacy\".","line":17,"charStart":581,"charEnd":663}}]
+[{"method":"warning","params":{"file":"lib/components/lobby_element.html","message":"Invalid URL to reach to another package: ../../../../packages/polymer/polymer.html. Path reaching to other packages must first reach up all the way to the packages directory. For example, try changing the URL to: ../../../packages/polymer/polymer.html","line":1,"charStart":0,"charEnd":68}}]
+[{"method":"warning","params":{"file":"lib/components/game_element.html","message":"Invalid URL to reach to another package: ../../../../packages/polymer/polymer.html. Path reaching to other packages must first reach up all the way to the packages directory. For example, try changing the URL to: ../../../packages/polymer/polymer.html","line":1,"charStart":0,"charEnd":68}}]
+[{"method":"warning","params":{"file":"lib/components/dartlomacy_element.html","message":"Missing definition for <polymer-element>, please add the following HTML import at the top of this file: <link rel=\"import\" href=\"../../../packages/polymer/polymer.html\">.","line":4,"charStart":160,"charEnd":203}}]
+[{"method":"warning","params":{"file":"web/dartlomacy.html","message":"definition for Polymer element with tag name \"dartlomacy-element\" not found.","line":25,"charStart":811,"charEnd":847}}]
+build.dart finished [1379 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.html
+[{"method":"warning","params":{"file":"lib/components/dartlomacy_element.html","message":"Invalid URL to reach to another package: ../../../../packages/polymer/polymer.html. Path reaching to other packages must first reach up all the way to the packages directory. For example, try changing the URL to: ../../../packages/polymer/polymer.html","line":1,"charStart":0,"charEnd":68}}]
+[{"method":"warning","params":{"file":"lib/components/game_element.html","message":"Invalid URL to reach to another package: ../../../../packages/polymer/polymer.html. Path reaching to other packages must first reach up all the way to the packages directory. For example, try changing the URL to: ../../../packages/polymer/polymer.html","line":1,"charStart":0,"charEnd":68}}]
+[{"method":"warning","params":{"file":"lib/components/game_element.html","message":"Missing definition for <polymer-element>, please add the following HTML import at the top of this file: <link rel=\"import\" href=\"../../../packages/polymer/polymer.html\">.","line":2,"charStart":69,"charEnd":106}}]
+[{"method":"warning","params":{"file":"lib/components/lobby_element.html","message":"Invalid URL to reach to another package: ../../../../packages/polymer/polymer.html. Path reaching to other packages must first reach up all the way to the packages directory. For example, try changing the URL to: ../../../packages/polymer/polymer.html","line":1,"charStart":0,"charEnd":68}}]
+[{"method":"warning","params":{"file":"lib/components/lobby_element.html","message":"Missing definition for <polymer-element>, please add the following HTML import at the top of this file: <link rel=\"import\" href=\"../../../packages/polymer/polymer.html\">.","line":2,"charStart":69,"charEnd":107}}]
+[{"method":"warning","params":{"file":"lib/components/lobby_element.html","message":"Invalid URL to reach to another package: ../../../../packages/polymer/polymer.html. Path reaching to other packages must first reach up all the way to the packages directory. For example, try changing the URL to: ../../../packages/polymer/polymer.html","line":1,"charStart":0,"charEnd":68}}]
+[{"method":"warning","params":{"file":"lib/components/game_element.html","message":"Invalid URL to reach to another package: ../../../../packages/polymer/polymer.html. Path reaching to other packages must first reach up all the way to the packages directory. For example, try changing the URL to: ../../../packages/polymer/polymer.html","line":1,"charStart":0,"charEnd":68}}]
+[{"method":"warning","params":{"file":"lib/components/dartlomacy_element.html","message":"Missing definition for <polymer-element>, please add the following HTML import at the top of this file: <link rel=\"import\" href=\"../../../packages/polymer/polymer.html\">.","line":4,"charStart":160,"charEnd":203}}]
+[{"method":"warning","params":{"file":"lib/components/dartlomacy_element.html","message":"Invalid URL to reach to another package: ../../../../packages/polymer/polymer.html. Path reaching to other packages must first reach up all the way to the packages directory. For example, try changing the URL to: ../../../packages/polymer/polymer.html","line":1,"charStart":0,"charEnd":68}}]
+[{"method":"warning","params":{"file":"lib/components/lobby_element.html","message":"Invalid URL to reach to another package: ../../../../packages/polymer/polymer.html. Path reaching to other packages must first reach up all the way to the packages directory. For example, try changing the URL to: ../../../packages/polymer/polymer.html","line":1,"charStart":0,"charEnd":68}}]
+[{"method":"warning","params":{"file":"lib/components/game_element.html","message":"Invalid URL to reach to another package: ../../../../packages/polymer/polymer.html. Path reaching to other packages must first reach up all the way to the packages directory. For example, try changing the URL to: ../../../packages/polymer/polymer.html","line":1,"charStart":0,"charEnd":68}}]
+build.dart finished [1387 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.html
+[{"method":"warning","params":{"file":"lib/components/dartlomacy_element.html","message":"Invalid URL to reach to another package: ../../../../packages/polymer/polymer.html. Path reaching to other packages must first reach up all the way to the packages directory. For example, try changing the URL to: ../../../packages/polymer/polymer.html","line":1,"charStart":0,"charEnd":68}}]
+[{"method":"warning","params":{"file":"lib/components/game_element.html","message":"Invalid URL to reach to another package: ../../../../packages/polymer/polymer.html. Path reaching to other packages must first reach up all the way to the packages directory. For example, try changing the URL to: ../../../packages/polymer/polymer.html","line":1,"charStart":0,"charEnd":68}}]
+[{"method":"warning","params":{"file":"lib/components/game_element.html","message":"Missing definition for <polymer-element>, please add the following HTML import at the top of this file: <link rel=\"import\" href=\"../../../packages/polymer/polymer.html\">.","line":2,"charStart":69,"charEnd":106}}]
+[{"method":"warning","params":{"file":"lib/components/lobby_element.html","message":"Invalid URL to reach to another package: ../../../../packages/polymer/polymer.html. Path reaching to other packages must first reach up all the way to the packages directory. For example, try changing the URL to: ../../../packages/polymer/polymer.html","line":1,"charStart":0,"charEnd":68}}]
+[{"method":"warning","params":{"file":"lib/components/lobby_element.html","message":"Missing definition for <polymer-element>, please add the following HTML import at the top of this file: <link rel=\"import\" href=\"../../../packages/polymer/polymer.html\">.","line":2,"charStart":69,"charEnd":107}}]
+[{"method":"warning","params":{"file":"lib/components/lobby_element.html","message":"Invalid URL to reach to another package: ../../../../packages/polymer/polymer.html. Path reaching to other packages must first reach up all the way to the packages directory. For example, try changing the URL to: ../../../packages/polymer/polymer.html","line":1,"charStart":0,"charEnd":68}}]
+[{"method":"warning","params":{"file":"lib/components/game_element.html","message":"Invalid URL to reach to another package: ../../../../packages/polymer/polymer.html. Path reaching to other packages must first reach up all the way to the packages directory. For example, try changing the URL to: ../../../packages/polymer/polymer.html","line":1,"charStart":0,"charEnd":68}}]
+[{"method":"warning","params":{"file":"lib/components/dartlomacy_element.html","message":"Missing definition for <polymer-element>, please add the following HTML import at the top of this file: <link rel=\"import\" href=\"../../../packages/polymer/polymer.html\">.","line":4,"charStart":160,"charEnd":203}}]
+[{"method":"warning","params":{"file":"lib/components/dartlomacy_element.html","message":"Invalid URL to reach to another package: ../../../../packages/polymer/polymer.html. Path reaching to other packages must first reach up all the way to the packages directory. For example, try changing the URL to: ../../../packages/polymer/polymer.html","line":1,"charStart":0,"charEnd":68}}]
+[{"method":"warning","params":{"file":"lib/components/lobby_element.html","message":"Invalid URL to reach to another package: ../../../../packages/polymer/polymer.html. Path reaching to other packages must first reach up all the way to the packages directory. For example, try changing the URL to: ../../../packages/polymer/polymer.html","line":1,"charStart":0,"charEnd":68}}]
+[{"method":"warning","params":{"file":"lib/components/game_element.html","message":"Invalid URL to reach to another package: ../../../../packages/polymer/polymer.html. Path reaching to other packages must first reach up all the way to the packages directory. For example, try changing the URL to: ../../../packages/polymer/polymer.html","line":1,"charStart":0,"charEnd":68}}]
+build.dart finished [1371 ms]
+
+---
+build.dart --machine --changed=lib\components\dartlomacy_element.html
+[{"method":"warning","params":{"file":"lib/components/game_element.html","message":"Invalid URL to reach to another package: ../../../../packages/polymer/polymer.html. Path reaching to other packages must first reach up all the way to the packages directory. For example, try changing the URL to: ../../../packages/polymer/polymer.html","line":1,"charStart":0,"charEnd":68}}]
+[{"method":"warning","params":{"file":"lib/components/game_element.html","message":"Missing definition for <polymer-element>, please add the following HTML import at the top of this file: <link rel=\"import\" href=\"../../../packages/polymer/polymer.html\">.","line":2,"charStart":69,"charEnd":106}}]
+[{"method":"warning","params":{"file":"lib/components/lobby_element.html","message":"Invalid URL to reach to another package: ../../../../packages/polymer/polymer.html. Path reaching to other packages must first reach up all the way to the packages directory. For example, try changing the URL to: ../../../packages/polymer/polymer.html","line":1,"charStart":0,"charEnd":68}}]
+[{"method":"warning","params":{"file":"lib/components/lobby_element.html","message":"Missing definition for <polymer-element>, please add the following HTML import at the top of this file: <link rel=\"import\" href=\"../../../packages/polymer/polymer.html\">.","line":2,"charStart":69,"charEnd":107}}]
+[{"method":"warning","params":{"file":"lib/components/lobby_element.html","message":"Invalid URL to reach to another package: ../../../../packages/polymer/polymer.html. Path reaching to other packages must first reach up all the way to the packages directory. For example, try changing the URL to: ../../../packages/polymer/polymer.html","line":1,"charStart":0,"charEnd":68}}]
+[{"method":"warning","params":{"file":"lib/components/game_element.html","message":"Invalid URL to reach to another package: ../../../../packages/polymer/polymer.html. Path reaching to other packages must first reach up all the way to the packages directory. For example, try changing the URL to: ../../../packages/polymer/polymer.html","line":1,"charStart":0,"charEnd":68}}]
+[{"method":"warning","params":{"file":"lib/components/lobby_element.html","message":"Invalid URL to reach to another package: ../../../../packages/polymer/polymer.html. Path reaching to other packages must first reach up all the way to the packages directory. For example, try changing the URL to: ../../../packages/polymer/polymer.html","line":1,"charStart":0,"charEnd":68}}]
+[{"method":"warning","params":{"file":"lib/components/game_element.html","message":"Invalid URL to reach to another package: ../../../../packages/polymer/polymer.html. Path reaching to other packages must first reach up all the way to the packages directory. For example, try changing the URL to: ../../../packages/polymer/polymer.html","line":1,"charStart":0,"charEnd":68}}]
+build.dart finished [1408 ms]
+
+---
+build.dart --machine --changed=lib\components\game_element.html
+[{"method":"warning","params":{"file":"lib/components/lobby_element.html","message":"Invalid URL to reach to another package: ../../../../packages/polymer/polymer.html. Path reaching to other packages must first reach up all the way to the packages directory. For example, try changing the URL to: ../../../packages/polymer/polymer.html","line":1,"charStart":0,"charEnd":68}}]
+[{"method":"warning","params":{"file":"lib/components/lobby_element.html","message":"Missing definition for <polymer-element>, please add the following HTML import at the top of this file: <link rel=\"import\" href=\"../../../packages/polymer/polymer.html\">.","line":2,"charStart":69,"charEnd":107}}]
+[{"method":"warning","params":{"file":"lib/components/lobby_element.html","message":"Invalid URL to reach to another package: ../../../../packages/polymer/polymer.html. Path reaching to other packages must first reach up all the way to the packages directory. For example, try changing the URL to: ../../../packages/polymer/polymer.html","line":1,"charStart":0,"charEnd":68}}]
+[{"method":"warning","params":{"file":"lib/components/lobby_element.html","message":"Invalid URL to reach to another package: ../../../../packages/polymer/polymer.html. Path reaching to other packages must first reach up all the way to the packages directory. For example, try changing the URL to: ../../../packages/polymer/polymer.html","line":1,"charStart":0,"charEnd":68}}]
+build.dart finished [1458 ms]
+
+---
+build.dart --machine --changed=lib\components\lobby_element.html
+
+build.dart finished [1437 ms]
+
+---
+build.dart --machine --changed=lib\src\util\logging.dart
+
+build.dart finished [1384 ms]
+
+---
+build.dart --machine --changed=lib\src\util\logging.dart
+
+build.dart finished [1407 ms]
+
+---
+build.dart --machine --changed=lib\dartlomacy_library.dart
+
+build.dart finished [1414 ms]
+
+---
+build.dart --machine --changed=lib\src\util\logging.dart
+
+build.dart finished [1384 ms]
+
+---
+build.dart --machine --changed=lib\src\util\logging.dart
+
+build.dart finished [1397 ms]
+
+---
+build.dart --machine --changed=lib\src\util\logging.dart
+
+build.dart finished [1371 ms]
+
+---
+build.dart --machine --changed=lib\src\util\logging.dart
+
+build.dart finished [1400 ms]
+
+---
+build.dart --machine --changed=lib\components\dartlomacy_element.dart
+
+build.dart finished [1420 ms]
+
+---
+build.dart --machine --changed=lib\components\dartlomacy_element.dart
+
+build.dart finished [1374 ms]
+
+---
+build.dart --machine --changed=lib\components\dartlomacy_element.dart
+
+build.dart finished [1382 ms]
+
+---
+build.dart --machine --changed=lib\components\dartlomacy_element.dart
+
+build.dart finished [1421 ms]
+
+---
+build.dart --machine --changed=lib\components\dartlomacy_element.dart
+
+build.dart finished [1419 ms]
+
+---
+build.dart --machine --changed=lib\components\dartlomacy_element.dart
+
+build.dart finished [1425 ms]
+
+---
+build.dart --machine --changed=lib\src\util\logging.dart
+
+build.dart finished [1399 ms]
+
+---
+build.dart --machine --changed=lib\components\dartlomacy_element.dart
+
+build.dart finished [1403 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.dart
+
+build.dart finished [1435 ms]
+
+---
+build.dart --machine --changed=lib\components\dartlomacy_element.dart
+
+build.dart finished [1436 ms]
+
+---
+build.dart --machine --changed=lib\components\dartlomacy_element.dart
+
+build.dart finished [1469 ms]
+
+---
+build.dart --machine --changed=lib\components\dartlomacy_element.dart
+
+build.dart finished [1360 ms]
+
+---
+build.dart --machine --changed=lib\components\dartlomacy_element.dart
+
+build.dart finished [1395 ms]
+
+---
+build.dart --machine --changed=lib\components\dartlomacy_element.dart
+
+build.dart finished [1365 ms]
+
+---
+build.dart --machine --changed=lib\components\dartlomacy_element.dart
+
+build.dart finished [1477 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.html
+[{"method":"warning","params":{"file":"web/dartlomacy.html","message":"definition for Polymer element with tag name \"core-toolbar\" not found.","line":23,"charStart":642,"charEnd":656}}]
+build.dart finished [1506 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.html
+
+build.dart finished [1436 ms]
+
+---
+build.dart --machine --changed=lib\components\dartlomacy_element.html
+[{"method":"warning","params":{"file":"lib/components/dartlomacy_element.html","message":"definition for Polymer element with tag name \"core-drawer-panel\" not found.","line":6,"charStart":216,"charEnd":235}}]
+build.dart finished [1499 ms]
+
+---
+build.dart --machine --changed=lib\components\dartlomacy_element.html
+[{"method":"warning","params":{"file":"lib/components/dartlomacy_element.html","message":"Invalid URL to reach to another package: packages/core_elements/core_header_panel.html. Path reaching to other packages must first reach up all the way to the packages directory. For example, try changing the URL to: ../../../packages/core_elements/core_header_panel.html","line":2,"charStart":66,"charEnd":138}}]
+[{"method":"warning","params":{"file":"lib/components/dartlomacy_element.html","message":"definition for Polymer element with tag name \"core-drawer-panel\" not found.","line":9,"charStart":291,"charEnd":310}}]
+[{"method":"warning","params":{"file":"lib/components/dartlomacy_element.html","message":"Invalid URL to reach to another package: packages/core_elements/core_header_panel.html. Path reaching to other packages must first reach up all the way to the packages directory. For example, try changing the URL to: ../../../packages/core_elements/core_header_panel.html","line":2,"charStart":66,"charEnd":138}}]
+build.dart finished [1494 ms]
+
+---
+build.dart --machine --changed=lib\components\dartlomacy_element.html
+[{"method":"warning","params":{"file":"lib/components/dartlomacy_element.html","message":"Invalid URL to reach to another package: packages/core_elements/core_drawer_panel.html. Path reaching to other packages must first reach up all the way to the packages directory. For example, try changing the URL to: ../../../packages/core_elements/core_drawer_panel.html","line":2,"charStart":66,"charEnd":138}}]
+[{"method":"warning","params":{"file":"lib/components/dartlomacy_element.html","message":"definition for Polymer element with tag name \"core-drawer-panel\" not found.","line":9,"charStart":291,"charEnd":310}}]
+[{"method":"warning","params":{"file":"lib/components/dartlomacy_element.html","message":"Invalid URL to reach to another package: packages/core_elements/core_drawer_panel.html. Path reaching to other packages must first reach up all the way to the packages directory. For example, try changing the URL to: ../../../packages/core_elements/core_drawer_panel.html","line":2,"charStart":66,"charEnd":138}}]
+build.dart finished [1472 ms]
+
+---
+build.dart --machine --changed=lib\components\dartlomacy_element.html
+[{"method":"warning","params":{"file":"lib/components/dartlomacy_element.html","message":"Invalid URL to reach to another package: packages/core_elements/core_drawer_panel.html. Path reaching to other packages must first reach up all the way to the packages directory. For example, try changing the URL to: ../../../packages/core_elements/core_drawer_panel.html","line":2,"charStart":66,"charEnd":138}}]
+[{"method":"warning","params":{"file":"lib/components/dartlomacy_element.html","message":"definition for Polymer element with tag name \"core-drawer-panel\" not found.","line":9,"charStart":291,"charEnd":310}}]
+[{"method":"warning","params":{"file":"lib/components/dartlomacy_element.html","message":"Invalid URL to reach to another package: packages/core_elements/core_drawer_panel.html. Path reaching to other packages must first reach up all the way to the packages directory. For example, try changing the URL to: ../../../packages/core_elements/core_drawer_panel.html","line":2,"charStart":66,"charEnd":138}}]
+build.dart finished [1475 ms]
+
+---
+build.dart --machine --changed=lib\components\dartlomacy_element.html
+
+build.dart finished [1511 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.html
+
+build.dart finished [1515 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.html
+
+build.dart finished [1514 ms]
+
+---
+build.dart --machine --changed=lib\components\dartlomacy_element.html
+
+build.dart finished [1454 ms]
+
+---
+build.dart --machine --changed=lib\components\dartlomacy_element.html
+
+build.dart finished [1518 ms]
+
+---
+build.dart --machine --changed=lib\components\dartlomacy_element.html --changed=web\css\main.css
+
+build.dart finished [1535 ms]
+
+---
+build.dart --machine --changed=web\css\main.css
+
+build.dart finished [1498 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.html
+
+build.dart finished [1496 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.html
+
+build.dart finished [1496 ms]
+
+---
+build.dart --machine --changed=lib\components\dartlomacy_element.html
+
+build.dart finished [1545 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.html
+
+build.dart finished [1503 ms]
+
+---
+build.dart --machine --changed=lib\components\game_element.html --changed=lib\components\lobby_element.html
+
+build.dart finished [1420 ms]
+
+---
+build.dart --machine --changed=lib\components\game_element.html --changed=lib\components\lobby_element.html
+[{"method":"warning","params":{"file":"lib/components/game_element.html","message":"definition for Polymer element with tag name \"core-toolbar\" not found.","line":4,"charStart":119,"charEnd":133}}]
+[{"method":"warning","params":{"file":"lib/components/lobby_element.html","message":"definition for Polymer element with tag name \"core-toolbar\" not found.","line":4,"charStart":120,"charEnd":134}}]
+build.dart finished [1445 ms]
+
+---
+build.dart --machine --changed=lib\components\game_element.html
+[{"method":"warning","params":{"file":"lib/components/game_element.html","message":"definition for Polymer element with tag name \"core-toolbar\" not found.","line":4,"charStart":119,"charEnd":133}}]
+[{"method":"warning","params":{"file":"lib/components/lobby_element.html","message":"definition for Polymer element with tag name \"core-toolbar\" not found.","line":4,"charStart":120,"charEnd":134}}]
+build.dart finished [1448 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.html
+[{"method":"warning","params":{"file":"lib/components/game_element.html","message":"definition for Polymer element with tag name \"core-toolbar\" not found.","line":4,"charStart":119,"charEnd":133}}]
+[{"method":"warning","params":{"file":"lib/components/lobby_element.html","message":"definition for Polymer element with tag name \"core-toolbar\" not found.","line":4,"charStart":120,"charEnd":134}}]
+build.dart finished [1446 ms]
+
+---
+build.dart --machine --changed=lib\components\game_element.html
+[{"method":"warning","params":{"file":"lib/components/game_element.html","message":"Invalid URL to reach to another package: packages/core_elements/core_toolbar.html. Path reaching to other packages must first reach up all the way to the packages directory. For example, try changing the URL to: ../../../packages/core_elements/core_toolbar.html","line":2,"charStart":66,"charEnd":133}}]
+[{"method":"warning","params":{"file":"lib/components/game_element.html","message":"definition for Polymer element with tag name \"core-toolbar\" not found.","line":5,"charStart":187,"charEnd":201}}]
+[{"method":"warning","params":{"file":"lib/components/lobby_element.html","message":"definition for Polymer element with tag name \"core-toolbar\" not found.","line":4,"charStart":120,"charEnd":134}}]
+[{"method":"warning","params":{"file":"lib/components/game_element.html","message":"Invalid URL to reach to another package: packages/core_elements/core_toolbar.html. Path reaching to other packages must first reach up all the way to the packages directory. For example, try changing the URL to: ../../../packages/core_elements/core_toolbar.html","line":2,"charStart":66,"charEnd":133}}]
+[{"method":"warning","params":{"file":"lib/components/game_element.html","message":"Invalid URL to reach to another package: packages/core_elements/core_toolbar.html. Path reaching to other packages must first reach up all the way to the packages directory. For example, try changing the URL to: ../../../packages/core_elements/core_toolbar.html","line":2,"charStart":66,"charEnd":133}}]
+build.dart finished [1453 ms]
+
+---
+build.dart --machine --changed=lib\components\lobby_element.html
+[{"method":"warning","params":{"file":"lib/components/game_element.html","message":"Invalid URL to reach to another package: packages/core_elements/core_toolbar.html. Path reaching to other packages must first reach up all the way to the packages directory. For example, try changing the URL to: ../../../packages/core_elements/core_toolbar.html","line":2,"charStart":66,"charEnd":133}}]
+[{"method":"warning","params":{"file":"lib/components/lobby_element.html","message":"Invalid URL to reach to another package: packages/core_elements/core_toolbar.html. Path reaching to other packages must first reach up all the way to the packages directory. For example, try changing the URL to: ../../../packages/core_elements/core_toolbar.html","line":2,"charStart":66,"charEnd":133}}]
+[{"method":"warning","params":{"file":"lib/components/game_element.html","message":"definition for Polymer element with tag name \"core-toolbar\" not found.","line":5,"charStart":187,"charEnd":201}}]
+[{"method":"warning","params":{"file":"lib/components/lobby_element.html","message":"definition for Polymer element with tag name \"core-toolbar\" not found.","line":5,"charStart":188,"charEnd":202}}]
+[{"method":"warning","params":{"file":"lib/components/lobby_element.html","message":"Invalid URL to reach to another package: packages/core_elements/core_toolbar.html. Path reaching to other packages must first reach up all the way to the packages directory. For example, try changing the URL to: ../../../packages/core_elements/core_toolbar.html","line":2,"charStart":66,"charEnd":133}}]
+[{"method":"warning","params":{"file":"lib/components/game_element.html","message":"Invalid URL to reach to another package: packages/core_elements/core_toolbar.html. Path reaching to other packages must first reach up all the way to the packages directory. For example, try changing the URL to: ../../../packages/core_elements/core_toolbar.html","line":2,"charStart":66,"charEnd":133}}]
+[{"method":"warning","params":{"file":"lib/components/lobby_element.html","message":"Invalid URL to reach to another package: packages/core_elements/core_toolbar.html. Path reaching to other packages must first reach up all the way to the packages directory. For example, try changing the URL to: ../../../packages/core_elements/core_toolbar.html","line":2,"charStart":66,"charEnd":133}}]
+[{"method":"warning","params":{"file":"lib/components/game_element.html","message":"Invalid URL to reach to another package: packages/core_elements/core_toolbar.html. Path reaching to other packages must first reach up all the way to the packages directory. For example, try changing the URL to: ../../../packages/core_elements/core_toolbar.html","line":2,"charStart":66,"charEnd":133}}]
+build.dart finished [1411 ms]
+
+---
+build.dart --machine --changed=lib\components\lobby_element.html
+[{"method":"warning","params":{"file":"lib/components/game_element.html","message":"Invalid URL to reach to another package: packages/core_elements/core_toolbar.html. Path reaching to other packages must first reach up all the way to the packages directory. For example, try changing the URL to: ../../../packages/core_elements/core_toolbar.html","line":2,"charStart":66,"charEnd":133}}]
+[{"method":"warning","params":{"file":"lib/components/game_element.html","message":"definition for Polymer element with tag name \"core-toolbar\" not found.","line":5,"charStart":187,"charEnd":201}}]
+[{"method":"warning","params":{"file":"lib/components/game_element.html","message":"Invalid URL to reach to another package: packages/core_elements/core_toolbar.html. Path reaching to other packages must first reach up all the way to the packages directory. For example, try changing the URL to: ../../../packages/core_elements/core_toolbar.html","line":2,"charStart":66,"charEnd":133}}]
+[{"method":"warning","params":{"file":"lib/components/game_element.html","message":"Invalid URL to reach to another package: packages/core_elements/core_toolbar.html. Path reaching to other packages must first reach up all the way to the packages directory. For example, try changing the URL to: ../../../packages/core_elements/core_toolbar.html","line":2,"charStart":66,"charEnd":133}}]
+build.dart finished [1462 ms]
+
+---
+build.dart --machine --changed=lib\components\game_element.html
+
+build.dart finished [1427 ms]
+
+---
+build.dart --machine --changed=lib\components\lobby_element.html
+
+build.dart finished [1428 ms]
+
+---
+build.dart --machine --changed=lib\components\lobby_element.html
+
+build.dart finished [1482 ms]
+
+---
+build.dart --machine --changed=lib\components\game_element.html
+
+build.dart finished [1424 ms]
+
+---
+build.dart --machine --changed=lib\components\game_element.html
+
+build.dart finished [1424 ms]
+
+---
+build.dart --machine --changed=lib\components\lobby_element.html
+
+build.dart finished [1452 ms]
+
+---
+build.dart --machine --changed=lib\components\lobby_element.html
+[{"method":"warning","params":{"file":"lib/components/lobby_element.html","message":"Unexpected end tag (paper-button). Ignored.","line":15,"charStart":436,"charEnd":451}}]
+[{"method":"warning","params":{"file":"lib/components/lobby_element.html","message":"definition for Polymer element with tag name \"paper-button\" not found.","line":12,"charStart":343,"charEnd":364}}]
+[{"method":"warning","params":{"file":"lib/components/lobby_element.html","message":"definition for Polymer element with tag name \"core-icon\" not found.","line":13,"charStart":377,"charEnd":404}}]
+build.dart finished [1498 ms]
+
+---
+build.dart --machine --changed=lib\components\lobby_element.html
+[{"method":"warning","params":{"file":"lib/components/lobby_element.html","message":"Unexpected end tag (paper-button). Ignored.","line":15,"charStart":464,"charEnd":479}}]
+[{"method":"warning","params":{"file":"lib/components/lobby_element.html","message":"definition for Polymer element with tag name \"paper-button\" not found.","line":12,"charStart":343,"charEnd":392}}]
+[{"method":"warning","params":{"file":"lib/components/lobby_element.html","message":"definition for Polymer element with tag name \"core-icon\" not found.","line":13,"charStart":405,"charEnd":432}}]
+build.dart finished [1504 ms]
+
+---
+build.dart --machine --changed=lib\components\lobby_element.html
+[{"method":"warning","params":{"file":"lib/components/lobby_element.html","message":"Unexpected end tag (paper-button). Ignored.","line":17,"charStart":543,"charEnd":558}}]
+[{"method":"warning","params":{"file":"lib/components/lobby_element.html","message":"couldn't find imported asset \"lib/paper-button.html\" in package \"paper_elements\".","line":3,"charStart":143,"charEnd":220}}]
+[{"method":"warning","params":{"file":"lib/components/lobby_element.html","message":"definition for Polymer element with tag name \"paper-button\" not found.","line":14,"charStart":422,"charEnd":471}}]
+[{"method":"warning","params":{"file":"lib/components/lobby_element.html","message":"definition for Polymer element with tag name \"core-icon\" not found.","line":15,"charStart":484,"charEnd":511}}]
+build.dart finished [1490 ms]
+
+---
+build.dart --machine --changed=lib\components\lobby_element.html
+[{"method":"warning","params":{"file":"lib/components/lobby_element.html","message":"Unexpected end tag (paper-button). Ignored.","line":17,"charStart":543,"charEnd":558}}]
+build.dart finished [1533 ms]
+
+---
+build.dart --machine --changed=lib\components\lobby_element.html
+[{"method":"warning","params":{"file":"lib/components/lobby_element.html","message":"Unexpected end tag (paper-button). Ignored.","line":18,"charStart":617,"charEnd":632}}]
+build.dart finished [1487 ms]
+
+---
+build.dart --machine --changed=lib\components\lobby_element.html
+[{"method":"warning","params":{"file":"lib/components/lobby_element.html","message":"Trailing solidus not allowed on element core-icon","line":16,"charStart":558,"charEnd":587}}]
+[{"method":"warning","params":{"file":"lib/components/lobby_element.html","message":"Unexpected end tag (paper-button). Ignored.","line":18,"charStart":619,"charEnd":634}}]
+build.dart finished [1535 ms]
+
+---
+build.dart --machine --changed=lib\components\lobby_element.html
+[{"method":"warning","params":{"file":"lib/components/lobby_element.html","message":"Unexpected end tag (paper-button). Ignored.","line":18,"charStart":617,"charEnd":632}}]
+build.dart finished [1497 ms]
+
+---
+build.dart --machine --changed=lib\components\lobby_element.html
+
+build.dart finished [1511 ms]
+
+---
+build.dart --machine --changed=lib\components\dartlomacy_element.dart
+
+build.dart finished [1510 ms]
+
+---
+build.dart --machine --changed=lib\components\dartlomacy_element.dart
+
+build.dart finished [1529 ms]
+
+---
+build.dart --machine --changed=lib\components\dartlomacy_element.dart
+
+build.dart finished [1490 ms]
+
+---
+build.dart --machine --changed=lib\components\lobby_element.html
+
+build.dart finished [1548 ms]
+
+---
+build.dart --machine --changed=lib\components\lobby_element.html
+
+build.dart finished [1527 ms]
+
+---
+build.dart --machine --changed=lib\components\lobby_element.html
+
+build.dart finished [1558 ms]
+
+---
+build.dart --machine --changed=lib\components\lobby_element.html
+
+build.dart finished [1508 ms]
+
+---
+build.dart --machine --changed=lib\components\lobby_element.html
+
+build.dart finished [1531 ms]
+
+---
+build.dart --machine --changed=lib\components\lobby_element.html
+
+build.dart finished [1538 ms]
+
+---
+build.dart --machine --changed=lib\components\lobby_element.html
+[{"method":"warning","params":{"file":"lib/components/lobby_element.html","message":"definition for Polymer element with tag name \"core-header-panel\" not found.","line":14,"charStart":473,"charEnd":492}}]
+build.dart finished [1479 ms]
+
+---
+build.dart --machine --changed=lib\components\lobby_element.html
+
+build.dart finished [1526 ms]
+
+---
+build.dart --machine --changed=lib\components\lobby_element.html
+
+build.dart finished [1497 ms]
+
+---
+build.dart --machine --changed=lib\components\lobby_element.html
+
+build.dart finished [1530 ms]
+
+---
+build.dart --machine --changed=lib\components\lobby_element.html
+
+build.dart finished [1544 ms]
+
+---
+build.dart --machine --changed=lib\components\lobby_element.html
+
+build.dart finished [1524 ms]
+
+---
+build.dart --machine --changed=lib\components\lobby_element.html
+
+build.dart finished [1541 ms]
+
+---
+build.dart --machine --changed=lib\components\lobby_element.html
+
+build.dart finished [1549 ms]
+
+---
+build.dart --machine --changed=lib\components\lobby_element.html
+
+build.dart finished [1580 ms]
+
+---
+build.dart --machine --changed=lib\components\lobby_element.html
+[{"method":"warning","params":{"file":"lib/components/lobby_element.html","message":"definition for Polymer element with tag name \"core-icon-button\" not found.","line":16,"charStart":578,"charEnd":617}}]
+build.dart finished [1517 ms]
+
+---
+build.dart --machine --changed=lib\components\lobby_element.html
+
+build.dart finished [1666 ms]
+
+---
+build.dart --machine --changed=lib\components\lobby_element.html
+
+build.dart finished [1655 ms]
+
+---
+build.dart --machine --changed=lib\components\lobby_element.html
+[{"method":"warning","params":{"file":"lib/components/lobby_element.html","message":"Unexpected end tag (paper-button). Ignored.","line":22,"charStart":906,"charEnd":921}}]
+build.dart finished [1617 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.html
+[{"method":"warning","params":{"file":"lib/components/lobby_element.html","message":"Unexpected end tag (paper-button). Ignored.","line":22,"charStart":906,"charEnd":921}}]
+[{"method":"warning","params":{"file":"web/dartlomacy.html","message":"Unexpected end tag (head). Ignored.","line":21,"charStart":706,"charEnd":713}}]
+[{"method":"warning","params":{"file":"web/dartlomacy.html","message":"Unexpected start tag (body).","line":23,"charStart":715,"charEnd":758}}]
+build.dart finished [1687 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.html
+[{"method":"warning","params":{"file":"lib/components/lobby_element.html","message":"Unexpected end tag (paper-button). Ignored.","line":22,"charStart":906,"charEnd":921}}]
+build.dart finished [1644 ms]
+
+---
+build.dart --machine --changed=lib\components\dartlomacy_element.html
+[{"method":"warning","params":{"file":"lib/components/lobby_element.html","message":"Unexpected end tag (paper-button). Ignored.","line":22,"charStart":906,"charEnd":921}}]
+build.dart finished [1626 ms]
+
+---
+build.dart --machine --changed=lib\components\dartlomacy_element.html
+[{"method":"warning","params":{"file":"lib/components/lobby_element.html","message":"Unexpected end tag (paper-button). Ignored.","line":22,"charStart":906,"charEnd":921}}]
+build.dart finished [1667 ms]
+
+---
+build.dart --machine --changed=lib\components\lobby_element.html
+
+build.dart finished [1694 ms]
+
+---
+build.dart --machine --changed=lib\components\lobby_element.html
+
+build.dart finished [1674 ms]
+
+---
+build.dart --machine --changed=lib\components\dartlomacy_element.html
+
+build.dart finished [1673 ms]
+
+---
+build.dart --machine --changed=lib\components\lobby_element.html
+
+build.dart finished [1671 ms]
+
+---
+build.dart --machine --changed=lib\components\lobby_element.html
+
+build.dart finished [1679 ms]
+
+---
+build.dart --machine --changed=lib\components\lobby_element.html
+
+build.dart finished [1608 ms]
+
+---
+build.dart --machine --changed=lib\components\lobby_element.html
+
+build.dart finished [1698 ms]
+
+---
+build.dart --machine --changed=lib\components\lobby_element.html
+
+build.dart finished [1685 ms]
+
+---
+build.dart --machine --changed=lib\components\lobby_element.html
+
+build.dart finished [1634 ms]
+
+---
+build.dart --machine --changed=lib\components\dartlomacy_element.dart
+
+build.dart finished [1685 ms]
+
+---
+build.dart --machine --changed=lib\components\lobby_element.dart
+
+build.dart finished [1677 ms]
+
+---
+build.dart --machine --changed=lib\components\dartlomacy_element.dart
+
+build.dart finished [1650 ms]
+
+---
+build.dart --machine --changed=lib\components\lobby_element.dart
+
+build.dart finished [1690 ms]
+
+---
+build.dart --machine --changed=lib\components\lobby_element.dart
+
+build.dart finished [1655 ms]
+
+---
+build.dart --machine --changed=lib\components\lobby_element.dart
+
+build.dart finished [1673 ms]
+
+---
+build.dart --machine --changed=lib\components\lobby_element.dart
+
+build.dart finished [1683 ms]
+
+---
+build.dart --machine --changed=lib\components\lobby_element.dart
+
+build.dart finished [1692 ms]
+
