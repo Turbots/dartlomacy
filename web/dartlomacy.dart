@@ -1,14 +1,14 @@
-import 'package:dartlomacy/dartlomacy.dart' as dartlomacy show start;
+import 'package:dartlomacy/dartlomacy_library.dart' as dartlomacy_library show start;
 import 'package:polymer/polymer.dart';
 
 /**
- * Main method.
+ * Starts the Dartlomacy web application.
  */
 main() {
-    // use polymer elements only when it is finished initializing.
+    // use polymer elements once it is finished initializing.
     initPolymer().run(() {
         Polymer.onReady.then((_) {
-            dartlomacy.start();
+            dartlomacy_library.start();
         });
     });
 }

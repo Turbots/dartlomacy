@@ -12,15 +12,20 @@
 
 <link rel="import" href="packages/core_elements/core_header_panel.html">
 
+<link rel="import" href="packages/dartlomacy/src/components/dartlomacy_element.html" />
+<link rel="import" href="packages/dartlomacy/src/components/game_element.html" />
+<link rel="import" href="packages/dartlomacy/src/components/lobby_element.html" />
+
 <link rel="stylesheet" type="text/css" href="css/main.css">
 
 </head>
 
 <body fullbleed vertical layout unresolved>
     <core-header-panel>
-        <div id="content">
-
-        </div>
+        <dartlomacy-element>
+            <lobby-element></lobby-element>
+            <game-element></game-element>
+        </dartlomacy-element>
     </core-header-panel>
 
     <script type="application/dart" src="dartlomacy.dart"></script>

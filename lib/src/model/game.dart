@@ -15,7 +15,7 @@ class Game {
     }
 
     /**
-     * Adds a [Player] to the list.
+     * Adds a [Player] to the game.
      */
     addPlayer(Player player) {
         _players.add(player);

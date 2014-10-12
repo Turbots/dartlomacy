@@ -2,10 +2,14 @@ part of dartlomacy;
 
 class Lobby {
 
+    static Logger logger = new Logger("Lobby");
+
     /**
-     * Opens the [Lobby] and shows the corresponding view.
+     * Opens a new [Lobby] to wait for players to join.
      */
     open() {
-        new LobbyView(this);
+        logger.info("Opening lobby");
     }
+
+    String toString() => "Lobby";
 }

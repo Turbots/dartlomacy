@@ -378,3 +378,732 @@ build.dart --machine --changed=web\dartlomacy.html
 
 build.dart finished [1416 ms]
 
+---
+build.dart --machine --removed=lib\src\view\lobby_view.dart
+
+build.dart finished [1478 ms]
+
+---
+build.dart --machine --changed=lib\dartlomacy.dart
+
+build.dart finished [1377 ms]
+
+---
+build.dart --machine --changed=lib\dartlomacy.dart
+
+build.dart finished [1444 ms]
+
+---
+build.dart --machine --changed=lib\src\model\lobby.dart
+
+build.dart finished [1385 ms]
+
+---
+build.dart --machine --changed=lib\src\model\lobby.dart
+
+build.dart finished [1388 ms]
+
+---
+build.dart --machine --changed=lib\src\model\lobby.dart
+
+build.dart finished [1374 ms]
+
+---
+build.dart --machine --changed=lib\src\model\lobby.dart
+
+build.dart finished [1408 ms]
+
+---
+build.dart --machine --changed=lib\src\dartlomacy_core.dart
+
+build.dart finished [1360 ms]
+
+---
+build.dart --machine --changed=lib\src\dartlomacy_core.dart
+
+build.dart finished [1395 ms]
+
+---
+build.dart --machine --changed=lib\src\dartlomacy_core.dart
+
+build.dart finished [1355 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.dart
+
+build.dart finished [1395 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.dart
+
+build.dart finished [1350 ms]
+
+---
+build.dart --machine --changed=lib\src\model\game.dart
+
+build.dart finished [1465 ms]
+
+---
+build.dart --machine --changed=lib\src\model\lobby.dart
+
+build.dart finished [1417 ms]
+
+---
+build.dart --machine --changed=lib\src\model\lobby.dart
+
+build.dart finished [1456 ms]
+
+---
+build.dart --machine --changed=lib\src\model\lobby.dart
+
+build.dart finished [1599 ms]
+
+---
+build.dart --machine --changed=lib\src\dartlomacy_core.dart
+
+build.dart finished [1491 ms]
+
+---
+build.dart --machine --changed=lib\src\dartlomacy_core.dart
+
+build.dart finished [1532 ms]
+
+---
+build.dart --machine --changed=lib\src\dartlomacy_core.dart
+
+build.dart finished [1391 ms]
+
+---
+build.dart --machine --changed=lib\src\components\lobby_element.dart
+
+build.dart finished [1432 ms]
+
+---
+build.dart --machine --changed=lib\dartlomacy.dart --changed=lib\src\components\lobby_element.dart
+
+build.dart finished [1426 ms]
+
+---
+build.dart --machine --changed=lib\src\components\lobby_element.dart
+
+build.dart finished [1437 ms]
+
+---
+build.dart --machine --changed=lib\dartlomacy.dart
+
+build.dart finished [1433 ms]
+
+---
+build.dart --machine --changed=lib\src\components\lobby_element.dart
+
+build.dart finished [1435 ms]
+
+---
+build.dart --machine --changed=lib\src\components\lobby_element.dart
+
+build.dart finished [1471 ms]
+
+---
+build.dart --machine --changed=lib\src\components\lobby_element.dart
+
+build.dart finished [1437 ms]
+
+---
+build.dart --machine --changed=lib\src\components\lobby_element.dart
+
+build.dart finished [1470 ms]
+
+---
+build.dart --machine --changed=lib\src\model\lobby.dart
+
+build.dart finished [1457 ms]
+
+---
+build.dart --machine --changed=lib\src\model\lobby.dart
+
+build.dart finished [1414 ms]
+
+---
+build.dart --machine --changed=lib\src\model\lobby.dart
+
+build.dart finished [1458 ms]
+
+---
+build.dart --machine --changed=lib\src\model\game.dart
+
+build.dart finished [1427 ms]
+
+---
+build.dart --machine --changed=lib\src\components\lobby_element.dart
+
+build.dart finished [1407 ms]
+
+---
+build.dart --machine --changed=lib\src\components\lobby_element.dart
+
+build.dart finished [1376 ms]
+
+---
+build.dart --machine --changed=lib\src\components\lobby_element.html
+
+build.dart finished [1468 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.html
+
+build.dart finished [1428 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.html
+
+build.dart finished [1459 ms]
+
+---
+build.dart --machine --changed=lib\src\components\dartlomacy_element.dart
+
+build.dart finished [1469 ms]
+
+---
+build.dart --machine --changed=lib\src\components\dartlomacy_element.html
+
+build.dart finished [1547 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.html
+
+build.dart finished [1406 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.html
+[{"method":"warning","params":{"file":"web/dartlomacy.html","message":"Trailing solidus not allowed on element lobby","line":22,"charStart":582,"charEnd":591}}]
+[{"method":"warning","params":{"file":"web/dartlomacy.html","message":"Trailing solidus not allowed on element game","line":23,"charStart":604,"charEnd":612}}]
+[{"method":"warning","params":{"file":"web/dartlomacy.html","message":"Unexpected end tag (dartlomacy). Ignored.","line":24,"charStart":621,"charEnd":634}}]
+build.dart finished [1491 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.html
+
+build.dart finished [1416 ms]
+
+---
+build.dart --machine --changed=lib\src\components\dartlomacy_element.dart
+
+build.dart finished [1475 ms]
+
+---
+build.dart --machine --changed=lib\dartlomacy.dart
+
+build.dart finished [1414 ms]
+
+---
+build.dart --machine --changed=lib\dartlomacy.dart
+
+build.dart finished [1405 ms]
+
+---
+build.dart --machine --changed=lib\src\components\game_element.dart
+
+build.dart finished [1430 ms]
+
+---
+build.dart --machine --changed=lib\src\components\game_element.html
+
+build.dart finished [1751 ms]
+
+---
+build.dart --machine --changed=lib\dartlomacy.dart
+
+build.dart finished [1455 ms]
+
+---
+build.dart --machine --changed=lib\src\components\game_element.dart
+
+build.dart finished [1385 ms]
+
+---
+build.dart --machine --changed=lib\dartlomacy.dart --changed=lib\src\dartlomacy_starter --removed=lib\src\dartl...
+
+build.dart finished [1404 ms]
+
+---
+build.dart --machine --changed=lib\src\dartlomacy_starter.dart --removed=lib\src\dartlomacy_starter
+
+build.dart finished [1411 ms]
+
+---
+build.dart --machine --changed=lib\dartlomacy.dart
+
+build.dart finished [1433 ms]
+
+---
+build.dart --machine --changed=lib\src\dartlomacy_starter.dart
+
+build.dart finished [1424 ms]
+
+---
+build.dart --machine --changed=lib\src\components\dartlomacy_element.dart
+
+build.dart finished [1409 ms]
+
+---
+build.dart --machine --changed=lib\src\components\dartlomacy_element.dart
+
+build.dart finished [1366 ms]
+
+---
+build.dart --machine --changed=lib\src\components\dartlomacy_element.dart
+
+build.dart finished [1416 ms]
+
+---
+build.dart --machine --changed=lib\src\components\dartlomacy_element.dart
+
+build.dart finished [1375 ms]
+
+---
+build.dart --machine --changed=lib\src\components\lobby_element.dart
+
+build.dart finished [1424 ms]
+
+---
+build.dart --machine --changed=lib\src\components\lobby_element.dart
+
+build.dart finished [1392 ms]
+
+---
+build.dart --machine --changed=lib\src\components\lobby_element.dart
+
+build.dart finished [1403 ms]
+
+---
+build.dart --machine --changed=lib\src\components\lobby_element.dart
+
+build.dart finished [1407 ms]
+
+---
+build.dart --machine --changed=lib\src\components\game_element.dart
+
+build.dart finished [1374 ms]
+
+---
+build.dart --machine --changed=lib\src\components\game_element.dart
+
+build.dart finished [1439 ms]
+
+---
+build.dart --machine --changed=lib\src\components\dartlomacy_element.dart
+
+build.dart finished [1406 ms]
+
+---
+build.dart --machine --changed=lib\src\components\dartlomacy_element.dart
+
+build.dart finished [1382 ms]
+
+---
+build.dart --machine --changed=lib\src\components\dartlomacy_element.dart
+
+build.dart finished [1411 ms]
+
+---
+build.dart --machine --changed=lib\src\components\lobby_element.dart
+
+build.dart finished [1394 ms]
+
+---
+build.dart --machine --changed=lib\src\components\lobby_element.dart
+
+build.dart finished [1392 ms]
+
+---
+build.dart --machine --changed=lib\src\model\lobby.dart
+
+build.dart finished [1381 ms]
+
+---
+build.dart --machine --changed=lib\src\model\lobby.dart
+
+build.dart finished [1392 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.html
+
+build.dart finished [1416 ms]
+
+---
+build.dart --machine --removed=build\web\css\main.css --removed=build\web\css\map.css --removed=build\web\dartl...
+
+build.dart finished [1451 ms]
+
+---
+build.dart --machine --changed=pubspec.lock
+
+build.dart finished [1410 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.html
+
+build.dart finished [1431 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.html
+[{"method":"warning","params":{"file":"web/dartlomacy.html","message":"couldn't find imported asset \"lib/components/dartlomacy_element.html\" in package \"dartlomacy\".","line":15,"charStart":411,"charEnd":492}}]
+build.dart finished [1415 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.html
+[{"method":"warning","params":{"file":"web/dartlomacy.html","message":"couldn't find imported asset \"lib/dartlomacy/components/dartlomacy_element.html\" in package \"src\".","line":15,"charStart":411,"charEnd":496}}]
+build.dart finished [1411 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.html
+
+build.dart finished [1452 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.html
+
+build.dart finished [1415 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.html
+[{"method":"warning","params":{"file":"web/dartlomacy.html","message":"couldn't find imported asset \"lib/src/components/dartlomacy.html\" in package \"dartlomacy\".","line":15,"charStart":411,"charEnd":490}}]
+build.dart finished [1460 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.html
+[{"method":"warning","params":{"file":"web/dartlomacy.html","message":"couldn't find imported asset \"lib/dartlomacy.html\" in package \"dartlomacy\".","line":15,"charStart":411,"charEnd":475}}]
+build.dart finished [1442 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.html
+[{"method":"warning","params":{"file":"web/dartlomacy.html","message":"incomplete packages/ path. It should have at least 3 segments packages/name/path_from_name's_lib_dir","line":15,"charStart":411,"charEnd":464}}]
+build.dart finished [1476 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.html
+
+build.dart finished [1434 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.html
+
+build.dart finished [1378 ms]
+
+---
+build.dart --machine --changed=lib\src\components\dartlomacy_element.html
+
+build.dart finished [1427 ms]
+
+---
+build.dart --machine --changed=lib\src\components\dartlomacy_element.html
+
+build.dart finished [1465 ms]
+
+---
+build.dart --machine --changed=lib\src\components\game_element.html --changed=lib\src\components\lobby_element....
+
+build.dart finished [1431 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.html
+
+build.dart finished [1472 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.html
+
+build.dart finished [1407 ms]
+
+---
+build.dart --machine --changed=lib\src\components\dartlomacy_element.dart --changed=web\dartlomacy.html
+[{"method":"warning","params":{"file":"web/dartlomacy.html","message":"couldn't find imported asset \"lib/dartlomacy.dat\" in package \"dartlomacy\".","line":15,"charStart":411,"charEnd":474}}]
+build.dart finished [1430 ms]
+
+---
+build.dart --machine --changed=lib\src\components\dartlomacy_element.dart
+[{"method":"warning","params":{"file":"web/dartlomacy.html","message":"couldn't find imported asset \"lib/dartlomacy.dat\" in package \"dartlomacy\".","line":15,"charStart":411,"charEnd":474}}]
+build.dart finished [1439 ms]
+
+---
+build.dart --machine --changed=lib\src\components\dartlomacy_element.dart
+[{"method":"warning","params":{"file":"web/dartlomacy.html","message":"couldn't find imported asset \"lib/dartlomacy.dat\" in package \"dartlomacy\".","line":15,"charStart":411,"charEnd":474}}]
+build.dart finished [1417 ms]
+
+---
+build.dart --machine --changed=lib\src\components\dartlomacy_element.dart
+[{"method":"warning","params":{"file":"web/dartlomacy.html","message":"couldn't find imported asset \"lib/dartlomacy.dat\" in package \"dartlomacy\".","line":15,"charStart":411,"charEnd":474}}]
+build.dart finished [1597 ms]
+
+---
+build.dart --machine --changed=lib\src\components\dartlomacy_element.dart
+[{"method":"warning","params":{"file":"web/dartlomacy.html","message":"couldn't find imported asset \"lib/dartlomacy.dat\" in package \"dartlomacy\".","line":15,"charStart":411,"charEnd":474}}]
+build.dart finished [1443 ms]
+
+---
+build.dart --machine --changed=lib\src\components\game_element.dart
+[{"method":"warning","params":{"file":"web/dartlomacy.html","message":"couldn't find imported asset \"lib/dartlomacy.dat\" in package \"dartlomacy\".","line":15,"charStart":411,"charEnd":474}}]
+build.dart finished [1348 ms]
+
+---
+build.dart --machine --changed=lib\src\components\lobby_element.dart
+[{"method":"warning","params":{"file":"web/dartlomacy.html","message":"couldn't find imported asset \"lib/dartlomacy.dat\" in package \"dartlomacy\".","line":15,"charStart":411,"charEnd":474}}]
+build.dart finished [1400 ms]
+
+---
+build.dart --machine --changed=lib\src\components\lobby_element.dart
+[{"method":"warning","params":{"file":"web/dartlomacy.html","message":"couldn't find imported asset \"lib/dartlomacy.dat\" in package \"dartlomacy\".","line":15,"charStart":411,"charEnd":474}}]
+build.dart finished [1391 ms]
+
+---
+build.dart --machine --changed=lib\dartlomacy.dart
+[{"method":"warning","params":{"file":"web/dartlomacy.html","message":"couldn't find imported asset \"lib/dartlomacy.dat\" in package \"dartlomacy\".","line":15,"charStart":411,"charEnd":474}}]
+build.dart finished [1412 ms]
+
+---
+build.dart --machine --changed=lib\src\components\dartlomacy_element.dart
+[{"method":"warning","params":{"file":"web/dartlomacy.html","message":"couldn't find imported asset \"lib/dartlomacy.dat\" in package \"dartlomacy\".","line":15,"charStart":411,"charEnd":474}}]
+build.dart finished [1417 ms]
+
+---
+build.dart --machine --changed=lib\src\components\dartlomacy_element.dart
+[{"method":"warning","params":{"file":"web/dartlomacy.html","message":"couldn't find imported asset \"lib/dartlomacy.dat\" in package \"dartlomacy\".","line":15,"charStart":411,"charEnd":474}}]
+build.dart finished [1380 ms]
+
+---
+build.dart --machine --changed=lib\src\components\dartlomacy_element.dart
+[{"method":"warning","params":{"file":"web/dartlomacy.html","message":"couldn't find imported asset \"lib/dartlomacy.dat\" in package \"dartlomacy\".","line":15,"charStart":411,"charEnd":474}}]
+build.dart finished [1343 ms]
+
+---
+build.dart --machine --changed=lib\src\components\dartlomacy_element.dart
+[{"method":"warning","params":{"file":"web/dartlomacy.html","message":"couldn't find imported asset \"lib/dartlomacy.dat\" in package \"dartlomacy\".","line":15,"charStart":411,"charEnd":474}}]
+build.dart finished [1353 ms]
+
+---
+build.dart --machine --changed=lib\dartlomacy.dart
+[{"method":"warning","params":{"file":"web/dartlomacy.html","message":"couldn't find imported asset \"lib/dartlomacy.dat\" in package \"dartlomacy\".","line":15,"charStart":411,"charEnd":474}}]
+build.dart finished [1424 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.html
+[{"method":"warning","params":{"file":"web/dartlomacy.html","message":"couldn't find imported asset \"lib/dartlomacy_core.dat\" in package \"dartlomacy\".","line":15,"charStart":411,"charEnd":479}}]
+[{"method":"warning","params":{"file":"web/dartlomacy.html","message":"couldn't find imported asset \"lib/dartlomacy.dat\" in package \"dartlomacy\".","line":16,"charStart":480,"charEnd":543}}]
+[{"method":"warning","params":{"file":"web/dartlomacy.html","message":"couldn't find imported asset \"lib/dartlomacy.dat\" in package \"dartlomacy\".","line":17,"charStart":544,"charEnd":607}}]
+build.dart finished [1410 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.html
+[{"method":"warning","params":{"file":"web/dartlomacy.html","message":"couldn't find imported asset \"lib/dartlomacy_element.dat\" in package \"dartlomacy\".","line":15,"charStart":411,"charEnd":482}}]
+[{"method":"warning","params":{"file":"web/dartlomacy.html","message":"couldn't find imported asset \"lib/game_element.dat\" in package \"dartlomacy\".","line":16,"charStart":483,"charEnd":548}}]
+[{"method":"warning","params":{"file":"web/dartlomacy.html","message":"couldn't find imported asset \"lib/lobby_element.dat\" in package \"dartlomacy\".","line":17,"charStart":549,"charEnd":615}}]
+build.dart finished [1349 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.html
+[{"method":"warning","params":{"file":"web/dartlomacy.html","message":"couldn't find imported asset \"lib/dartlomacy_element.dart\" in package \"dartlomacy\".","line":15,"charStart":411,"charEnd":483}}]
+[{"method":"warning","params":{"file":"web/dartlomacy.html","message":"couldn't find imported asset \"lib/game_element.dart\" in package \"dartlomacy\".","line":16,"charStart":484,"charEnd":550}}]
+[{"method":"warning","params":{"file":"web/dartlomacy.html","message":"couldn't find imported asset \"lib/lobby_element.dart\" in package \"dartlomacy\".","line":17,"charStart":551,"charEnd":618}}]
+build.dart finished [1359 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.html
+[{"method":"warning","params":{"file":"web/dartlomacy.html","message":"couldn't find imported asset \"lib/dartlomacy_element.html\" in package \"dartlomacy\".","line":15,"charStart":411,"charEnd":483}}]
+[{"method":"warning","params":{"file":"web/dartlomacy.html","message":"couldn't find imported asset \"lib/game_element.html\" in package \"dartlomacy\".","line":16,"charStart":484,"charEnd":550}}]
+[{"method":"warning","params":{"file":"web/dartlomacy.html","message":"couldn't find imported asset \"lib/lobby_element.html\" in package \"dartlomacy\".","line":17,"charStart":551,"charEnd":618}}]
+build.dart finished [1380 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.html
+
+build.dart finished [1385 ms]
+
+---
+build.dart --machine --changed=lib\src\components\dartlomacy_element.html
+
+build.dart finished [1351 ms]
+
+---
+build.dart --machine --changed=lib\src\components\game_element.html
+
+build.dart finished [1408 ms]
+
+---
+build.dart --machine --changed=lib\src\components\lobby_element.html
+
+build.dart finished [1401 ms]
+
+---
+build.dart --machine --changed=lib\src\components\lobby_element.html
+
+build.dart finished [1366 ms]
+
+---
+build.dart --machine --changed=lib\src\components\dartlomacy_element.html
+[{"method":"warning","params":{"file":"lib/src/components/dartlomacy_element.html","message":"Missing definition for <polymer-element>, please add the following HTML import at the top of this file: <link rel=\"import\" href=\"../../../../packages/polymer/polymer.html\">.","line":1,"charStart":0,"charEnd":42}}]
+[{"method":"warning","params":{"file":"package:core_elements/src/core-header-panel/core-header-panel.html","message":"duplicate definition for custom tag \"core-header-panel\".","line":71,"charStart":2172,"charEnd":2214}}]
+[{"method":"warning","params":{"file":"lib/src/components/dartlomacy_element.html","message":"duplicate definition for custom tag \"core-header-panel\"  (second definition).","line":1,"charStart":0,"charEnd":42}}]
+build.dart finished [1395 ms]
+
+---
+build.dart --machine --changed=lib\src\components\dartlomacy_element.html
+[{"method":"warning","params":{"file":"lib/src/components/dartlomacy_element.html","message":"Missing definition for <polymer-element>, please add the following HTML import at the top of this file: <link rel=\"import\" href=\"../../../../packages/polymer/polymer.html\">.","line":1,"charStart":0,"charEnd":42}}]
+[{"method":"warning","params":{"file":"package:core_elements/src/core-header-panel/core-header-panel.html","message":"duplicate definition for custom tag \"core-header-panel\".","line":71,"charStart":2172,"charEnd":2214}}]
+[{"method":"warning","params":{"file":"lib/src/components/dartlomacy_element.html","message":"duplicate definition for custom tag \"core-header-panel\"  (second definition).","line":1,"charStart":0,"charEnd":42}}]
+build.dart finished [1351 ms]
+
+---
+build.dart --machine --changed=lib\src\components\dartlomacy_element.html
+[{"method":"warning","params":{"file":"lib/src/components/dartlomacy_element.html","message":"Missing definition for <polymer-element>, please add the following HTML import at the top of this file: <link rel=\"import\" href=\"../../../../packages/polymer/polymer.html\">.","line":1,"charStart":0,"charEnd":35}}]
+[{"method":"error","params":{"file":"lib/src/components/dartlomacy_element.html","message":"Invalid name \"dartlomacy\". Custom element names must have at least one dash and can't be any of the following names: annotation-xml, color-profile, font-face, font-face-src, font-face-uri, font-face-format, font-face-name, missing-glyph.","line":1,"charStart":0,"charEnd":35}}]
+build failed with errors: {Transform polymer (Linter) on dartlomacy|lib/src/components/dartlomacy_element.html threw error: Invalid name "dartlomacy". Custom element names must have at least one dash and can't be any of the following names: annotation-xml, color-profile, font-face, font-face-src, font-face-uri, font-face-format, font-face-name, missing-glyph.}
+build.dart finished [1410 ms]
+
+---
+build.dart --machine --changed=lib\src\components\dartlomacy_element.html
+[{"method":"warning","params":{"file":"lib/src/components/dartlomacy_element.html","message":"Missing definition for <polymer-element>, please add the following HTML import at the top of this file: <link rel=\"import\" href=\"../../../../packages/polymer/polymer.html\">.","line":1,"charStart":0,"charEnd":35}}]
+[{"method":"error","params":{"file":"lib/src/components/dartlomacy_element.html","message":"Invalid name \"dartlomacy\". Custom element names must have at least one dash and can't be any of the following names: annotation-xml, color-profile, font-face, font-face-src, font-face-uri, font-face-format, font-face-name, missing-glyph.","line":1,"charStart":0,"charEnd":35}}]
+build failed with errors: {Transform polymer (Linter) on dartlomacy|lib/src/components/dartlomacy_element.html threw error: Invalid name "dartlomacy". Custom element names must have at least one dash and can't be any of the following names: annotation-xml, color-profile, font-face, font-face-src, font-face-uri, font-face-format, font-face-name, missing-glyph.}
+build.dart finished [1327 ms]
+
+---
+build.dart --machine --changed=lib\dartlomacy_library.dart --removed=lib\dartlomacy.dart
+[{"method":"warning","params":{"file":"lib/src/components/dartlomacy_element.html","message":"Missing definition for <polymer-element>, please add the following HTML import at the top of this file: <link rel=\"import\" href=\"../../../../packages/polymer/polymer.html\">.","line":1,"charStart":0,"charEnd":35}}]
+[{"method":"error","params":{"file":"lib/src/components/dartlomacy_element.html","message":"Invalid name \"dartlomacy\". Custom element names must have at least one dash and can't be any of the following names: annotation-xml, color-profile, font-face, font-face-src, font-face-uri, font-face-format, font-face-name, missing-glyph.","line":1,"charStart":0,"charEnd":35}}]
+build failed with errors: {Transform polymer (Linter) on dartlomacy|lib/src/components/dartlomacy_element.html threw error: Invalid name "dartlomacy". Custom element names must have at least one dash and can't be any of the following names: annotation-xml, color-profile, font-face, font-face-src, font-face-uri, font-face-format, font-face-name, missing-glyph.}
+build.dart finished [1348 ms]
+
+---
+build.dart --machine --changed=lib\src\components\dartlomacy_element.html
+[{"method":"warning","params":{"file":"lib/src/components/dartlomacy_element.html","message":"Missing definition for <polymer-element>, please add the following HTML import at the top of this file: <link rel=\"import\" href=\"../../../../packages/polymer/polymer.html\">.","line":2,"charStart":1,"charEnd":36}}]
+[{"method":"error","params":{"file":"lib/src/components/dartlomacy_element.html","message":"Invalid name \"dartlomacy\". Custom element names must have at least one dash and can't be any of the following names: annotation-xml, color-profile, font-face, font-face-src, font-face-uri, font-face-format, font-face-name, missing-glyph.","line":2,"charStart":1,"charEnd":36}}]
+build failed with errors: {Transform polymer (Linter) on dartlomacy|lib/src/components/dartlomacy_element.html threw error: Invalid name "dartlomacy". Custom element names must have at least one dash and can't be any of the following names: annotation-xml, color-profile, font-face, font-face-src, font-face-uri, font-face-format, font-face-name, missing-glyph.}
+build.dart finished [1353 ms]
+
+---
+build.dart --machine --changed=lib\src\components\dartlomacy_element.html
+[{"method":"warning","params":{"file":"lib/src/components/dartlomacy_element.html","message":"Missing definition for <polymer-element>, please add the following HTML import at the top of this file: <link rel=\"import\" href=\"../../../../packages/polymer/polymer.html\">.","line":2,"charStart":1,"charEnd":44}}]
+build.dart finished [1408 ms]
+
+---
+build.dart --machine --changed=lib\src\components\dartlomacy_element.dart
+[{"method":"warning","params":{"file":"lib/src/components/dartlomacy_element.html","message":"Missing definition for <polymer-element>, please add the following HTML import at the top of this file: <link rel=\"import\" href=\"../../../../packages/polymer/polymer.html\">.","line":2,"charStart":1,"charEnd":44}}]
+build.dart finished [1407 ms]
+
+---
+build.dart --machine --changed=lib\src\components\dartlomacy_element.dart
+[{"method":"warning","params":{"file":"lib/src/components/dartlomacy_element.html","message":"Missing definition for <polymer-element>, please add the following HTML import at the top of this file: <link rel=\"import\" href=\"../../../../packages/polymer/polymer.html\">.","line":2,"charStart":1,"charEnd":44}}]
+build.dart finished [1383 ms]
+
+---
+build.dart --machine --changed=lib\src\components\game_element.dart
+[{"method":"warning","params":{"file":"lib/src/components/dartlomacy_element.html","message":"Missing definition for <polymer-element>, please add the following HTML import at the top of this file: <link rel=\"import\" href=\"../../../../packages/polymer/polymer.html\">.","line":2,"charStart":1,"charEnd":44}}]
+build.dart finished [1405 ms]
+
+---
+build.dart --machine --changed=lib\src\components\lobby_element.dart
+[{"method":"warning","params":{"file":"lib/src/components/dartlomacy_element.html","message":"Missing definition for <polymer-element>, please add the following HTML import at the top of this file: <link rel=\"import\" href=\"../../../../packages/polymer/polymer.html\">.","line":2,"charStart":1,"charEnd":44}}]
+build.dart finished [1428 ms]
+
+---
+build.dart --machine --changed=lib\src\components\dartlomacy_element.html
+
+build.dart finished [1406 ms]
+
+---
+build.dart --machine --changed=lib\src\components\dartlomacy_element.html
+[{"method":"warning","params":{"file":"lib/src/components/dartlomacy_element.html","message":"Invalid URL to reach to another package: ../../../packages/polymer/polymer.html. Path reaching to other packages must first reach up all the way to the packages directory. For example, try changing the URL to: ../../../../packages/polymer/polymer.html","line":1,"charStart":0,"charEnd":65}}]
+[{"method":"warning","params":{"file":"lib/src/components/dartlomacy_element.html","message":"Missing definition for <polymer-element>, please add the following HTML import at the top of this file: <link rel=\"import\" href=\"../../../../packages/polymer/polymer.html\">.","line":2,"charStart":66,"charEnd":109}}]
+[{"method":"warning","params":{"file":"lib/src/components/dartlomacy_element.html","message":"Invalid URL to reach to another package: ../../../packages/polymer/polymer.html. Path reaching to other packages must first reach up all the way to the packages directory. For example, try changing the URL to: ../../../../packages/polymer/polymer.html","line":1,"charStart":0,"charEnd":65}}]
+build.dart finished [1360 ms]
+
+---
+build.dart --machine --changed=lib\src\components\dartlomacy_element.html
+
+build.dart finished [1395 ms]
+
+---
+build.dart --machine --changed=lib\src\components\dartlomacy_element.html
+
+build.dart finished [1372 ms]
+
+---
+build.dart --machine --changed=lib\src\components\dartlomacy_element.html
+
+build.dart finished [1404 ms]
+
+---
+build.dart --machine --changed=lib\src\components\game_element.dart --changed=lib\src\components\game_element.h...
+[{"method":"warning","params":{"file":"lib/src/components/dartlomacy_element.html","message":"duplicate definition for custom tag \"dartlomacy-element\".","line":2,"charStart":69,"charEnd":112}}]
+[{"method":"warning","params":{"file":"lib/src/components/lobby_element.html","message":"duplicate definition for custom tag \"dartlomacy-element\"  (second definition).","line":2,"charStart":69,"charEnd":112}}]
+build.dart finished [1392 ms]
+
+---
+build.dart --machine --changed=lib\src\components\lobby_element.dart
+[{"method":"warning","params":{"file":"lib/src/components/dartlomacy_element.html","message":"duplicate definition for custom tag \"dartlomacy-element\".","line":2,"charStart":69,"charEnd":112}}]
+[{"method":"warning","params":{"file":"lib/src/components/lobby_element.html","message":"duplicate definition for custom tag \"dartlomacy-element\"  (second definition).","line":2,"charStart":69,"charEnd":112}}]
+build.dart finished [1387 ms]
+
+---
+build.dart --machine --changed=lib\src\components\lobby_element.html
+
+build.dart finished [1372 ms]
+
+---
+build.dart --machine --changed=lib\src\components\game_element.html
+
+build.dart finished [1395 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.dart
+
+build.dart finished [1372 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.dart
+
+build.dart finished [1387 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.dart
+
+build.dart finished [1396 ms]
+
+---
+build.dart --machine --changed=lib\src\components\dartlomacy_element.html
+
+build.dart finished [1375 ms]
+
+---
+build.dart --machine --changed=lib\src\components\dartlomacy_element.dart
+
+build.dart finished [1378 ms]
+
+---
+build.dart --machine --changed=lib\src\components\dartlomacy_element.dart
+
+build.dart finished [1393 ms]
+
+---
+build.dart --machine --changed=lib\src\components\dartlomacy_element.dart
+
+build.dart finished [1413 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.html
+[{"method":"warning","params":{"file":"web/dartlomacy.html","message":"Unexpected end tag (lobby). Ignored.","line":26,"charStart":859,"charEnd":867}}]
+[{"method":"warning","params":{"file":"web/dartlomacy.html","message":"Unexpected end tag (game). Ignored.","line":27,"charStart":894,"charEnd":901}}]
+[{"method":"warning","params":{"file":"web/dartlomacy.html","message":"Unexpected end tag (dartlomacy). Ignored.","line":28,"charStart":910,"charEnd":923}}]
+[{"method":"warning","params":{"file":"web/dartlomacy.html","message":"Unexpected end tag (core-header-panel). Ignored.","line":29,"charStart":928,"charEnd":948}}]
+build.dart finished [1404 ms]
+
+---
+build.dart --machine --changed=web\dartlomacy.html
+
+build.dart finished [1381 ms]
+
+---
+build.dart --machine --changed=lib\src\components\dartlomacy_element.dart
+
+build.dart finished [1385 ms]
+
